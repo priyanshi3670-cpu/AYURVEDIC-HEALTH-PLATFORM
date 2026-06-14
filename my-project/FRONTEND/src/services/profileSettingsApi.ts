@@ -23,10 +23,12 @@ export const MOCK_FULL_PROFILE: FullUserProfile = {
   lifestylePreference: 'Active',
   dietPreference: 'Vegetarian',
   exercisePreference: 'Yoga & Walking',
+
 };
 
 export const MOCK_ACCOUNT_OVERVIEW: AccountOverview = {
   appointments: 12,
+
   savedTreatments: 8,
   medicalRecords: 15,
   recoveryPlans: 3,
